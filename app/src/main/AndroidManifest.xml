@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.isen.scamacca.androiderestaurant">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidERestaurant"
+        android:usesCleartextTraffic="true">
+        <activity android:name="fr.isen.scamacca.androiderestaurant.BaseActivity"></activity>
+        <activity
+            android:name="fr.isen.scamacca.androiderestaurant.login.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:theme="@style/Theme.AndroidERestaurant.NoActionBar" />
+        <activity
+            android:name="fr.isen.scamacca.androiderestaurant.cart.CartActivity"
+            android:label="@string/title_activity_cart"
+            android:theme="@style/Theme.AndroidERestaurant.NoActionBar" />
+        <activity android:name="fr.isen.scamacca.androiderestaurant.detail.DetailActivity" />
+        <activity android:name="fr.isen.scamacca.androiderestaurant.DishActivity" />
+        <activity
+            android:name=".EntreeActivity"
+            android:label="@string/title_activity_entree"
+            android:theme="@style/Theme.AndroidERestaurant.NoActionBar" />
+        <activity android:name="fr.isen.scamacca.androiderestaurant.HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

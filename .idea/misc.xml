@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable/delete_icon.xml" value="0.196" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable/icon_cart.xml" value="0.196" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/drawable/round_button.xml" value="0.196" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_base.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_cart.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_detail.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/activity_dish.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/cart_cell.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/content_cart.xml" value="0.19375" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/dish_template.xml" value="0.19375" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_cart_items.xml" value="0.19375" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_first.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_first2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/layout/fragment_second.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/AndroidERestaurant/app/src/main/res/menu/menu.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/cart_cell.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/cart_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/content_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/content_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/dish_template.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/fragment_cart_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/fragment_first2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/fragment_second2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/fragment_template.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/login_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/layout/register_fragment.xml" value="0.3342391304347826" />
+        <entry key="..\:/Users/charles.scamacca/AndroidStudioProjects/DroidEat-main/app/src/main/res/menu/menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
